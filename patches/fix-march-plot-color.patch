@@ -1,0 +1,11 @@
+--- src/phase3_problems234.py-before-plot-fix
++++ src/phase3_problems234.py
+@@ -484,7 +484,7 @@
+     if len(mar_data) > 0:
+         mar_dates = pd.to_datetime(mar_data["日期"])
+         ax_mar.scatter(mar_dates, mar_data["最大NTU"], 
+-                      c=mar_data["level_num"], cmap="RdYlGn_r",
++                      c=mar_data["风险等级"].map(risk_levels), cmap="RdYlGn_r",
+                       s=60, edgecolor="white", linewidth=1)
+         ax_mar.axhline(y=1.0, color="red", linestyle="--", linewidth=1.5)
+         ax_mar.set_title("3月详细 — 每日NTU与风险等级", fontsize=13, fontweight="bold")

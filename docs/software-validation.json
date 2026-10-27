@@ -1,0 +1,37 @@
+{
+  "input_kind": "synthetic",
+  "seed": 20261026,
+  "rows": 1445,
+  "real_observations": 0,
+  "phase_results": [
+    {
+      "script": "phase1_eda.py",
+      "exit_code": 0,
+      "seconds": 31.25,
+      "input_kind": "synthetic",
+      "log": "phase1_eda.py.log"
+    },
+    {
+      "script": "phase2_problem1.py",
+      "exit_code": 0,
+      "seconds": 13.64,
+      "input_kind": "synthetic",
+      "log": "phase2_problem1.py.log"
+    },
+    {
+      "script": "phase3_problems234.py",
+      "exit_code": 0,
+      "seconds": 24.47,
+      "input_kind": "synthetic",
+      "log": "phase3_problems234.py.log"
+    }
+  ],
+  "phase1_reused_not_rerun": true,
+  "source_canonical_scripts": 19,
+  "source_paths": 32,
+  "duplicate_aliases": 13,
+  "raw_spreadsheets_excluded": 16,
+  "historical_entrypoints_default_blocked": 11,
+  "real_data_imported": false,
+  "water_plant_or_competition_claim": false
+}

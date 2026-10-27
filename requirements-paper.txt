@@ -1,0 +1,2 @@
+# Optional historical Word/PDF export only; not installed or exercised for this migration
+docx2pdf>=0.1.8

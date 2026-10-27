@@ -1,0 +1,11 @@
+{
+  "name": "water-quality-modeling-study",
+  "private": true,
+  "description": "Optional original Word layout generator; analysis is Python",
+  "scripts": {
+    "paper": "node src/gen_paper_word.js"
+  },
+  "dependencies": {
+    "docx": "9.7.1"
+  }
+}

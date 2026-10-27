@@ -1,0 +1,211 @@
+{
+  "unique_original_sources": 19,
+  "duplicate_source_aliases": 13,
+  "files": [
+    {
+      "public_path": "src/gen_ai_disclosure.py",
+      "source_paths": [
+        "code/gen_ai_disclosure.py"
+      ],
+      "original_sha256": "965b3704eb64e03353c3c56b3d43aea1ee4ffaf3572d301afaeb70af44990e28",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": true
+    },
+    {
+      "public_path": "src/gen_expanded_paper.py",
+      "source_paths": [
+        "code/gen_expanded_paper.py"
+      ],
+      "original_sha256": "74c1ae5e14f8f8dfe2877ae900933699479ba8db49bd43ffb0dcd927b845e2a2",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": true
+    },
+    {
+      "public_path": "src/gen_final_deliverables.py",
+      "source_paths": [
+        "code/gen_final_deliverables.py",
+        "2_代码/gen_final_deliverables.py"
+      ],
+      "original_sha256": "d92ab153cfd1f404753c32dd3eb266deda255ab5441e184cbed58f079a0d44d1",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/gen_final_formatted_paper.py",
+      "source_paths": [
+        "code/gen_final_formatted_paper.py"
+      ],
+      "original_sha256": "90747960fb2e9ecaa71dcf27eec7c9440251d331dbce60d73f80f789554bc985",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": true
+    },
+    {
+      "public_path": "src/gen_final_word_with_figures.py",
+      "source_paths": [
+        "code/gen_final_word_with_figures.py",
+        "2_代码/gen_final_word_with_figures.py"
+      ],
+      "original_sha256": "c84cb9199b63df7b901d311389500c4ba4ee5eff92d284e39474e55866ccb2fc",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/gen_nature_figures.py",
+      "source_paths": [
+        "code/gen_nature_figures.py",
+        "2_代码/gen_nature_figures.py"
+      ],
+      "original_sha256": "4f951579564588056ad9bceb4ef26864a372f27e6be8272876e72d4eb44f186d",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/gen_paper_word.js",
+      "source_paths": [
+        "code/gen_paper_word.js",
+        "2_代码/gen_paper_word.js"
+      ],
+      "original_sha256": "d2857aeca90f1cd25c747309a243ebe61b0368229ec35cdaed6f4d4eb03b0581",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/gen_standard_paper.py",
+      "source_paths": [
+        "code/gen_standard_paper.py"
+      ],
+      "original_sha256": "ebd706c5609b73f4d432c14b2d9680f7cf23e4888116cfc0f8c47dabbe8c89c2",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": true
+    },
+    {
+      "public_path": "src/gen_supplementary_figures.py",
+      "source_paths": [
+        "code/gen_supplementary_figures.py"
+      ],
+      "original_sha256": "2b53dc54fdafcd0d782ad606f9dccded3d061e6fbd0885fb2af935e535cbebe3",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/phase0_load_data.py",
+      "source_paths": [
+        "code/phase0_load_data.py",
+        "2_代码/phase0_load_data.py"
+      ],
+      "original_sha256": "2b6c74760954e7392a43e3b81dd82e618e60599c6f68c1b268226c50603e7c26",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": false,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/phase1_eda.py",
+      "source_paths": [
+        "code/phase1_eda.py",
+        "2_代码/phase1_eda.py"
+      ],
+      "original_sha256": "3108eb6922e5ef1790abf1848809151a110c6e1287953a62fd6ac3e94f436fed",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": false,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/phase2_problem1.py",
+      "source_paths": [
+        "code/phase2_problem1.py",
+        "2_代码/phase2_problem1.py"
+      ],
+      "original_sha256": "b48d864a5cffde83eb11de8817921cec00f19301baeb7de683e10c0815747a4d",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": false,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/phase3_problems234.py",
+      "source_paths": [
+        "code/phase3_problems234.py",
+        "2_代码/phase3_problems234.py"
+      ],
+      "original_sha256": "f1dd164bc8c94c3e9fc61f40b53d2c72ed93d6dacee035937e0e5fd9d81a189d",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": false,
+      "unverified_identity_fields_placeholdered": false,
+      "minimal_plot_fix": "March plot derives color codes from its own category column; model/threshold/score unchanged"
+    },
+    {
+      "public_path": "src/phase_final_ccf_analysis.py",
+      "source_paths": [
+        "code/phase_final_ccf_analysis.py",
+        "2_代码/phase_final_ccf_analysis.py"
+      ],
+      "original_sha256": "576d4ddd1289172387c757067c13ebc7e822bdc23c76c2560312723730b56dab",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": false,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/phase_final_improvements.py",
+      "source_paths": [
+        "code/phase_final_improvements.py",
+        "2_代码/phase_final_improvements.py"
+      ],
+      "original_sha256": "73bbf89070e4f0a8fb116e3d5f264a136662e52cb104e3e568c89c9d6404f727",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": false,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/phase_final_q3q4.py",
+      "source_paths": [
+        "code/phase_final_q3q4.py",
+        "2_代码/phase_final_q3q4.py"
+      ],
+      "original_sha256": "2c94c14fd59cfbe386fba3abb36f9b585a4c2ccacf05ee15b7dde60673433349",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": false,
+      "unverified_identity_fields_placeholdered": false
+    },
+    {
+      "public_path": "src/prepare_submission.py",
+      "source_paths": [
+        "code/prepare_submission.py"
+      ],
+      "original_sha256": "8a24bfe7eb17cc98410716ea924c06df9229296dc5440a7d382085f94e5f3d37",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": true
+    },
+    {
+      "public_path": "src/reorganize_project.py",
+      "source_paths": [
+        "code/reorganize_project.py",
+        "2_代码/reorganize_project.py"
+      ],
+      "original_sha256": "f2a00f29b41ac2e4e449a7f9bfc92c565a35023790002dfcbd81c2ff28665888",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": true,
+      "unverified_identity_fields_placeholdered": true
+    },
+    {
+      "public_path": "src/verify_consistency.py",
+      "source_paths": [
+        "code/verify_consistency.py",
+        "2_代码/verify_consistency.py"
+      ],
+      "original_sha256": "9c17ce511522da192c07a2aa1d95d65f156b6d3e03934c5ed5654ea12814eeb1",
+      "private_path_expressions_replaced": 1,
+      "historical_template_default_disabled": false,
+      "unverified_identity_fields_placeholdered": false
+    }
+  ],
+  "raw_inputs_and_problem_pdfs_included": false
+}
